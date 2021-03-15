@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+
+I'm Jakub Guzik, a software engineer interested in embedded, containers, and Linux.
+- I’m currently interested in contributing to open source projects written in Go.
 <!--
 **jmguzik/jmguzik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
