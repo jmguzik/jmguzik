@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there!
 
 
 I'm Jakub Guzik, a software engineer interested in embedded solutions, containers, and Linux.
