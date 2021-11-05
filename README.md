@@ -3,7 +3,7 @@
 
 I'm Jakub Guzik, a software engineer interested in embedded solutions, containers, and Linux.
 
-Previously, community open source contributor. Now, contributing as Red Hatter.
+Previously, community open source contributor. Now, contributing as a Red Hatter.
 <!--
 **jmguzik/jmguzik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
